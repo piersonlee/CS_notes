@@ -142,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Python/for...in....md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "for...in... 的大纲"
+            }
+          },
+          {
+            "id": "3154828f952dc371",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +181,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44ba5a72a2ccd31c",
+  "active": "8fff632c2dbf1c8b",
   "lastOpenFiles": [
     "Python/for...in....md",
     "欢迎.md",
