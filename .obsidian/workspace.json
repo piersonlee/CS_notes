@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77ba4bbb92229b4d",
+        "id": "b80179a454fa3bc5",
         "type": "tabs",
         "children": [
           {
-            "id": "44ba5a72a2ccd31c",
+            "id": "9e5e715681a41491",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -179,11 +175,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44ba5a72a2ccd31c",
+  "active": "9e5e715681a41491",
   "lastOpenFiles": [
+    "Python/for...in....md",
+    "数据结构",
     "欢迎.md",
     "创建链接.md",
-    "Python/for...in....md",
     "OneNote/CS/Python/for…in….md",
     "OneNote/CS/Python/评估函数.md",
     "OneNote/CS/Python/程序设计基本方法.md",
