@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/未命名.md",
+                "file": "Python/range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "range"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/未命名.md",
+                "file": "Python/range.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "range 的大纲"
             }
           },
           {
@@ -207,13 +207,15 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "51435313064d13fa",
+  "active": "c3dddf7d09c9da69",
   "lastOpenFiles": [
-    "数据结构/Abstract data type.md",
     "数据结构/未命名.md",
+    "Python/range.md",
+    "数据结构/Abstract data type.md",
     "readme.md",
     "未命名.base",
     "Python/for...in....md",
