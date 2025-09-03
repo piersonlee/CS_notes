@@ -189,9 +189,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b971478c943a1836",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,12 +223,12 @@
   },
   "active": "c3dddf7d09c9da69",
   "lastOpenFiles": [
-    "数据结构/未命名.md",
+    "Python/for...in....md",
     "Python/range.md",
+    "数据结构/未命名.md",
     "数据结构/Abstract data type.md",
     "readme.md",
     "未命名.base",
-    "Python/for...in....md",
     "数据结构",
     "创建链接.md",
     "OneNote/CS/Python/for…in….md",
