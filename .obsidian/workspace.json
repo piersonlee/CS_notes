@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/range.md",
-                "mode": "preview",
+                "file": "Python/range().md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "range"
+              "title": "range()"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/range.md",
+                "file": "Python/range().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "range 的大纲"
+              "title": "range() 的大纲"
             }
           },
           {
@@ -188,10 +188,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3154828f952dc371",
+  "active": "c3dddf7d09c9da69",
   "lastOpenFiles": [
     "Python/for...in....md",
-    "Python/range.md",
+    "Python/range().md",
     "数据结构/未命名.md",
     "数据结构/Abstract data type.md",
     "readme.md",
