@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/动态规划.md",
-                "mode": "preview",
-                "source": false
+                "file": "cheat-sheet/markdown-cheat-sheet.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "动态规划"
+              "title": "markdown-cheat-sheet"
             }
           }
         ]
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构/动态规划.md",
+                "file": "cheat-sheet/markdown-cheat-sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "动态规划 的反向链接列表"
+              "title": "markdown-cheat-sheet 的反向链接列表"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据结构/动态规划.md",
+                "file": "cheat-sheet/markdown-cheat-sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "动态规划 的出链列表"
+              "title": "markdown-cheat-sheet 的出链列表"
             }
           },
           {
@@ -194,8 +194,10 @@
   },
   "active": "971cccc6266c5ecd",
   "lastOpenFiles": [
-    "数据结构/Abstract data type.md",
+    "cheat-sheet",
     "数据结构/动态规划.md",
+    "cheat-sheet/markdown-cheat-sheet.md",
+    "数据结构/Abstract data type.md",
     "数据结构/museumThief.py",
     "Python/未命名.md",
     "Python/range().md",
