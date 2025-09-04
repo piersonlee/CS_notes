@@ -11,10 +11,14 @@
             "id": "971cccc6266c5ecd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -191,9 +195,10 @@
   "active": "971cccc6266c5ecd",
   "lastOpenFiles": [
     "Python/range().md",
+    "Python/for...in....md",
+    "Python/未命名.md",
     "readme.md",
     "数据结构/Abstract data type.md",
-    "Python/for...in....md",
     "数据结构/未命名.md",
     "未命名.base",
     "数据结构",
