@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df60f3b3319cc40e",
@@ -129,16 +130,6 @@
             }
           },
           {
-            "id": "0c185bf1857aae82",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "0fa8500f617d4f2b",
             "type": "leaf",
             "state": {
@@ -163,20 +154,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/range().md",
+                "file": "数据结构/动态规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "range() 的出链列表"
+              "title": "动态规划 的出链列表"
+            }
+          },
+          {
+            "id": "017e738b563a558d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "971cccc6266c5ecd",
+  "active": "017e738b563a558d",
   "lastOpenFiles": [
     "Python/未命名.md",
     "数据结构/动态规划.md",
