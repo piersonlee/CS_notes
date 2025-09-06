@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "DSA23"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Tasks 的大纲"
+              "title": "DSA23 的大纲"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Tasks 的反向链接列表"
+              "title": "DSA23 的反向链接列表"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tasks 的出链列表"
+              "title": "DSA23 的出链列表"
             }
           },
           {
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +205,13 @@
   },
   "active": "d52f9df0184f3f97",
   "lastOpenFiles": [
-    "learnSchedule/2025-W36.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule/Tasks.md",
-    "learnSchedule/2025-09-07.md",
+    "数据结构/Abstract data type.md",
+    "数据结构/动态规划.md",
     "readme.md",
+    "learnSchedule/DSA23.md",
+    "learnSchedule/2025-W36.md",
     "2025-09-06.md",
     "learnSchedule/2025-09-07 1.md",
     "cheat-sheet/markdown-cheat-sheet.md",
@@ -218,9 +220,7 @@
     "Python/未命名.md",
     "learnSchedule/2025-09-06 DSA23-W08.md",
     "learnSchedule",
-    "数据结构/Abstract data type.md",
     "2025-09-04.md",
-    "数据结构/动态规划.md",
     "数据结构与算法-W08.pdf",
     "cheat-sheet",
     "数据结构/museumThief.py",
