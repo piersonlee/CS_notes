@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "DSA23"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Tasks 的大纲"
+              "title": "DSA23 的大纲"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Tasks 的反向链接列表"
+              "title": "DSA23 的反向链接列表"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learnSchedule/Tasks.md",
+                "file": "learnSchedule/DSA23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Tasks 的出链列表"
+              "title": "DSA23 的出链列表"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "3f717a0a535d1e5d",
   "lastOpenFiles": [
-    "learnSchedule/DSA23.md",
     "learnSchedule/Tasks.md",
+    "learnSchedule/DSA23.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule/view.css",
     "learnSchedule/view.css.crdownload",
