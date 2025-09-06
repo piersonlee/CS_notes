@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "2025-09-07 DSA23-W08"
             }
-          },
-          {
-            "id": "a33f2913e93587fe",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
           }
         ]
       }
@@ -119,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnSchedule/2025-09-06 DSA23-W08.md",
+                "file": "learnSchedule/2025-09-07 DSA23-W08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-06 DSA23-W08 的大纲"
+              "title": "2025-09-07 DSA23-W08 的大纲"
             }
           },
           {
@@ -182,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,28 +191,26 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "d52f9df0184f3f97",
   "lastOpenFiles": [
+    "cheat-sheet/markdown-cheat-sheet.md",
     "learnSchedule/2025-09-07 DSA23-W08.md",
+    "Python/range().md",
+    "Python/for...in....md",
+    "Python/未命名.md",
     "learnSchedule/2025-09-06 DSA23-W08.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule",
     "数据结构/Abstract data type.md",
     "2025-09-04.md",
-    "cheat-sheet/markdown-cheat-sheet.md",
     "readme.md",
     "数据结构/动态规划.md",
     "数据结构与算法-W08.pdf",
     "cheat-sheet",
     "数据结构/museumThief.py",
-    "Python/未命名.md",
-    "Python/range().md",
-    "Python/for...in....md",
     "未命名.base",
     "数据结构",
     "创建链接.md",
