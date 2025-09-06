@@ -11,14 +11,13 @@
             "id": "9bb481ece57d8ae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "learnSchedule/DSA23.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "DSA23"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -205,8 +204,10 @@
   },
   "active": "9bb481ece57d8ae6",
   "lastOpenFiles": [
-    "learnSchedule/Tasks.md",
     "learnSchedule/DSA23.md",
+    "未命名.base",
+    "learnSchedule/Tasks.md",
+    "2025-09-07.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule/view.css",
     "learnSchedule/view.css.crdownload",
@@ -228,7 +229,6 @@
     "数据结构与算法-W08.pdf",
     "cheat-sheet",
     "数据结构/museumThief.py",
-    "未命名.base",
     "数据结构",
     "创建链接.md",
     "OneNote/CS/Python/for…in….md",
