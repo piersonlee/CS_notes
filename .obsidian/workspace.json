@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnSchedule/2025-09-07 DSA23-W08.md",
+                "file": "learnSchedule/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-07 DSA23-W08"
+              "title": "Tasks"
             }
           }
         ]
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learnSchedule/2025-09-07 DSA23-W08.md",
+                "file": "learnSchedule/Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-09-07 DSA23-W08 的大纲"
+              "title": "Tasks 的大纲"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "d52f9df0184f3f97",
   "lastOpenFiles": [
-    "cheat-sheet/markdown-cheat-sheet.md",
     "learnSchedule/2025-09-07 DSA23-W08.md",
+    "learnSchedule/Tasks.md",
+    "cheat-sheet/markdown-cheat-sheet.md",
     "Python/range().md",
     "Python/for...in....md",
     "Python/未命名.md",
