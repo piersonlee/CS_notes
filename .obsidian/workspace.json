@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheet/markdown-cheat-sheet.md",
+                "file": "数据结构/动态规划.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "markdown-cheat-sheet"
+              "title": "动态规划"
             }
           }
         ]
@@ -194,9 +194,10 @@
   },
   "active": "971cccc6266c5ecd",
   "lastOpenFiles": [
+    "cheat-sheet/markdown-cheat-sheet.md",
+    "数据结构与算法-W08.pdf",
     "cheat-sheet",
     "数据结构/动态规划.md",
-    "cheat-sheet/markdown-cheat-sheet.md",
     "数据结构/Abstract data type.md",
     "数据结构/museumThief.py",
     "Python/未命名.md",
