@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-importer",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-day-planner",
+  "dataview"
 ]
