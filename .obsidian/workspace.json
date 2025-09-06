@@ -13,26 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnSchedule/2025-09-06.md",
+                "file": "learnSchedule/2025-09-06 DSA23-W08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-06"
+              "title": "2025-09-06 DSA23-W08"
             }
           },
           {
-            "id": "5b98e66d3cda75bb",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "9月, 1–9月, 7"
-            }
-          },
-          {
-            "id": "5250ef6fa5d80f07",
+            "id": "54e4aa52e1c23c88",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,12 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "learnSchedule/2025-09-06 DSA23-W08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2025-09-06 DSA23-W08 的大纲"
             }
           },
           {
@@ -206,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +217,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5250ef6fa5d80f07",
+  "active": "54e4aa52e1c23c88",
   "lastOpenFiles": [
+    "learnSchedule/2025-09-06 DSA23-W08.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule",
     "数据结构/Abstract data type.md",
