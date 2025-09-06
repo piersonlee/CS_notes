@@ -119,6 +119,16 @@
             }
           },
           {
+            "id": "fc8e7469b9bb7c48",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
             "id": "3154828f952dc371",
             "type": "leaf",
             "state": {
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheet/markdown-cheat-sheet.md",
+                "file": "learnSchedule/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "markdown-cheat-sheet 的反向链接列表"
+              "title": "Tasks 的反向链接列表"
             }
           },
           {
@@ -153,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheet/markdown-cheat-sheet.md",
+                "file": "learnSchedule/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "markdown-cheat-sheet 的出链列表"
+              "title": "Tasks 的出链列表"
             }
           },
           {
@@ -172,12 +182,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,18 +205,21 @@
   },
   "active": "d52f9df0184f3f97",
   "lastOpenFiles": [
-    "learnSchedule/2025-09-07 DSA23-W08.md",
+    "learnSchedule/2025-W36.md",
+    "learnSchedule/2025-09-06.md",
     "learnSchedule/Tasks.md",
+    "learnSchedule/2025-09-07.md",
+    "readme.md",
+    "2025-09-06.md",
+    "learnSchedule/2025-09-07 1.md",
     "cheat-sheet/markdown-cheat-sheet.md",
     "Python/range().md",
     "Python/for...in....md",
     "Python/未命名.md",
     "learnSchedule/2025-09-06 DSA23-W08.md",
-    "learnSchedule/2025-09-06.md",
     "learnSchedule",
     "数据结构/Abstract data type.md",
     "2025-09-04.md",
-    "readme.md",
     "数据结构/动态规划.md",
     "数据结构与算法-W08.pdf",
     "cheat-sheet",
