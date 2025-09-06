@@ -31,8 +31,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +216,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "54e4aa52e1c23c88",
+  "active": "32ec034df41d57bb",
   "lastOpenFiles": [
+    "learnSchedule/2025-09-07 DSA23-W08.md",
     "learnSchedule/2025-09-06 DSA23-W08.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule",
