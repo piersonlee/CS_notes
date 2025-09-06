@@ -6,7 +6,8 @@ views:
     order:
       - file.path
       - file.name
-      - file.tags
+      - tags
+      - data
     sort:
       - property: file.tags
         direction: ASC

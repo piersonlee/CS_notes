@@ -11,14 +11,13 @@
             "id": "9bb481ece57d8ae6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "数据结构/动态规划.md",
-                "mode": "source",
-                "source": false
+                "file": "Base.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "动态规划"
+              "icon": "lucide-table",
+              "title": "Base"
             }
           }
         ]
@@ -109,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/动态规划.md",
+                "file": "Base.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "动态规划 的大纲"
+              "title": "Base 的大纲"
             }
           },
           {
@@ -204,14 +203,15 @@
   },
   "active": "9bb481ece57d8ae6",
   "lastOpenFiles": [
-    "Base.base",
-    "数据结构/动态规划.md",
-    "cheat-sheet/markdown-cheat-sheet.md",
-    "learnSchedule/DSA23.md",
     "数据结构/Abstract data type.md",
+    "数据结构/动态规划.md",
+    "Base.base",
+    "learnSchedule/Tasks.md",
+    "learnSchedule/DSA23.md",
+    "2025-09-06.md",
+    "cheat-sheet/markdown-cheat-sheet.md",
     "readme.md",
     "Untitled.md",
-    "learnSchedule/Tasks.md",
     "2025-09-07.md",
     "learnSchedule/2025-09-06.md",
     "learnSchedule/view.css",
@@ -219,7 +219,6 @@
     "learnSchedule/view.js",
     "learnSchedule/未确认 763380.crdownload",
     "learnSchedule/2025-W36.md",
-    "2025-09-06.md",
     "learnSchedule/2025-09-07 1.md",
     "Python/range().md",
     "Python/for...in....md",
