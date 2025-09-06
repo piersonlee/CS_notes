@@ -1,14 +1,14 @@
-formulas:
-  未命名: ""
 views:
   - type: table
     name: 视图
     order:
-      - file.path
+      - file.folder
       - file.name
       - tags
       - data
     sort:
+      - property: file.folder
+        direction: ASC
       - property: file.tags
         direction: ASC
       - property: file.path
