@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: 视图
+    order:
+      - file.path
+      - file.name
+    columnSize:
+      file.path: 281
