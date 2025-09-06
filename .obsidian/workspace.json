@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4094221f74b561e",
+        "id": "a13f5044a5f11d03",
         "type": "tabs",
         "children": [
           {
-            "id": "3f717a0a535d1e5d",
+            "id": "9bb481ece57d8ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,7 +203,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3f717a0a535d1e5d",
+  "active": "9bb481ece57d8ae6",
   "lastOpenFiles": [
     "learnSchedule/Tasks.md",
     "learnSchedule/DSA23.md",
