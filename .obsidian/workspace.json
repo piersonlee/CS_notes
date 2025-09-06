@@ -20,16 +20,6 @@
               "icon": "lucide-file",
               "title": "2025-09-06 DSA23-W08"
             }
-          },
-          {
-            "id": "54e4aa52e1c23c88",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
           }
         ]
       }
@@ -196,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
